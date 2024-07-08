@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.X{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)),url("imag.jpg");
+    background-size: cover;
+    height: 742px;
+    width: 100%;
+}
+.Y{
+    display: flex;
+    color: white;
+}
+.A{
+    margin-top: 5px;
+    margin-left: 60px;
+    font-size: 50px;
+}
+.B{
+    margin-left: 8rem;
+    font-size: 30px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.C{
+    margin-left: 5rem;
+    font-size: 30px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.D{
+    margin-left: 5rem;
+    font-size: 30px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.E{
+    margin-left: 5rem;
+    font-size: 30px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.F{
+    text-decoration: none;
+    margin-left: 12rem;
+    font-size: 20px;
+    padding:10px 20px;
+    border-radius:12px;
+    margin-top: 12px;
+    color: white;
+    background:indianred;
+    border: none;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.F:hover{
+ background: transparent;
+ border: 1px solid indianred;
+}
+.Enj{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 12rem;
+    
+}
+.IT{
+    display: flex;
+    justify-content: center;
+    color: rgb(253, 253, 253);
+    font-size: 80px;
+    font-weight: 500;
+}
+.Age{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    color: rgb(253, 253, 253);  
+}
+.BYT{
+    margin-left: 41.5rem;
+    margin-top: 10px;
+    padding:10px 20px;
+    font-size: 20px;
+    border-radius:10px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    background-color: indianred;
+    color: rgb(255, 255, 255);
+    transition: 0.4s;
+}
+.BYT:hover{
+    background: transparent;
+    border: 1px solid indianred;
+}
